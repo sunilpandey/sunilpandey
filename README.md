@@ -5,6 +5,6 @@
 - 📫 You can reach me on pandey.sunil1987@gmail.com
 
 ## Angular
-https://github.com/sunilpandey/keyvalue-demo
-https://github.com/sunilpandey/arrayutilities-functions-javascript
-https://github.com/sunilpandey/kanbanboard-firebase
+https://github.com/sunilpandey/keyvalue-demo<br/>
+https://github.com/sunilpandey/arrayutilities-functions-javascript<br/>
+https://github.com/sunilpandey/kanbanboard-firebase<br/>
