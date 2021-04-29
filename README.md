@@ -10,4 +10,3 @@ https://github.com/sunilpandey/kanbanboard-firebase<br/>
 ## Typescript
 https://github.com/sunilpandey/spread-operator<br/>
 https://github.com/sunilpandey/arrayutilities-functions-javascript<br/>
-https://github.com/sunilpandey/spread-operator
